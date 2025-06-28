@@ -1,1 +1,1 @@
-<img src="assets/windoze95_loading_in_color.gif" alt="Loading bar animation" />
+<img src="assets/windoze95_loading-in-color_once.gif" alt="Loading bar animation" />
